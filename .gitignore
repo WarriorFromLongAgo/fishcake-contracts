@@ -23,3 +23,5 @@ broadcast
 /data
 .idea
 .history
+.ps1
+*.ps1
